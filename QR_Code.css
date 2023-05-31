@@ -1,0 +1,46 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+img {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.border{
+    border-radius: 4.5%;
+}
+
+.insieme {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    width: 19rem;
+    text-align: center;
+    align-items: center;
+    font-family: 'Outfit', sans-serif;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+h1 {
+    font-size: 1.4rem;
+    color: hsl(218, 44%, 22%);
+    margin: 1.5;
+}
+
+p{
+    font-size: 1rem;
+    color: hsl(220, 15%, 55%);
+    margin: 1.5;
+}
